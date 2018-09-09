@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+title: PsychToolKit
+description: A simple, easy to modify, flexible psychology programming package. Based on Java and JavaFX, it provides ns-level precision and cross-platform consistency.
+show_downloads: https://github.com/corkine/PsychToolKit/blob/master/dist/com.mazhangjing.lab-v1.1.jar
